@@ -1,4 +1,5 @@
 # E-commerce Product Return Root Cause Analysis
+To view the notebook properly, open it directly on GitHub or use nbviewer.
 
 ## Problem Statement
 High product return rates negatively impact revenue and customer satisfaction.
